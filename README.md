@@ -1,5 +1,14 @@
-# react-redux-registration-login-example
+# react-redux-MongoDb-BlockChain-registration-login-example
 
-React + Redux - User Registration and Login Tutorial & Example
+React + Redux + MongoDb + BlockChain - User Registration and Login Tutorial & Example
 
-For documentation and further details go to http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+#Getting Started
+
+1. git clone https://github.com/mallikarjunm034/blockchain_MongoDB
+2. Go to root folder of the project form your terminal
+3. npm install
+4. cd backend && npm install
+5. npm start from root folder
+6. node server.js (from backend folder)
+
